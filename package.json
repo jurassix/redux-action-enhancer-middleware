@@ -2,7 +2,7 @@
   "name": "redux-action-enhancer-middleware",
   "version": "1.0.0",
   "description": "Middleware that provides an enhancing function to dispatched actions, with optional filtering to target only certain actions.",
-  "main": "/lib/actionEnhancerMiddleware.js",
+  "main": "./lib/actionEnhancerMiddleware.js",
   "scripts": {
     "build": "babel actionEnhancerMiddleware.js -d lib"
   },
